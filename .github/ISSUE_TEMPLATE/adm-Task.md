@@ -4,7 +4,6 @@ about: Documento para registrar decisiones, esclalar bloqueos y documentar los m
 title: "[ADM] Acta - Resumen Ejecutivo del [FECHA O DÍA]"
 labels: ['P: High', 'Type: ADM', 'Contexto', 'Decisión']
 assignees: ['@ProductOwner', '@ScrumMaster']
-
 ---
 
 # 💼 Resumen Ejecutivo y Control de Flujo
