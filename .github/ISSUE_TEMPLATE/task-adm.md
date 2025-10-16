@@ -1,10 +1,9 @@
 ---
-name: 💼 ADM: Control de Reunión Ejecutiva y Flujo de Issues
-about: Documento para registrar decisiones, esclalar bloqueos y documentar los movimientos de Issues (backlog/sprint) después de la reunión de estatus.
+name: "💼 ADM: Control de Reunión Ejecutiva y Flujo de Issues"
+about: "Documento para registrar decisiones, escalar bloqueos y documentar los movimientos de Issues (backlog/sprint) después de la reunión de estatus."
 title: "[ADM] Acta - Resumen Ejecutivo del [FECHA O DÍA]"
-labels: ['P: High', 'Type: ADM', 'Contexto', 'Decisión']
-assignees: ['@ProductOwner', '@ScrumMaster']
-
+labels: ["P: High", "Type: ADM", "Contexto", "Decisión"]
+assignees: ["ProductOwner", "ScrumMaster"]
 ---
 
 # 💼 Resumen Ejecutivo y Control de Flujo
