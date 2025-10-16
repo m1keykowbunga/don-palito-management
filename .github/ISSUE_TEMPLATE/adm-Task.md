@@ -1,4 +1,3 @@
-
 ---
 
 name: 💼 ADM: Control de Reunión Ejecutiva y Flujo de Issues
